@@ -434,7 +434,8 @@ def draw_year(s):
     for i, w in enumerate(weeks):
         m = int(w[0]["date"][5:7])
         x = pad_l + i * COLW * CW
-        if m != last_m and i < len(weeks) - 1 and x - last_x >= 34:
+        min_gap = len(MON[m - 1]) * CW + 6
+        if m != last_m and i < len(weeks) - 1 and x - last_x >= min_gap:
             p.append(label(x, base_y, MON[m - 1], 9, "m-f"))
             last_x = x
         last_m = m
