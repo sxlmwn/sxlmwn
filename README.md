@@ -5,9 +5,7 @@
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
 <!-- EDIT: links -->
-[github.com/sxlmwn](https://github.com/sxlmwn) &nbsp;·&nbsp;
-[linkedin](https://linkedin.com/in/sxlmwn) &nbsp;·&nbsp;
-[email](mailto:salmanyounus13@gmail.com)
+[linkedin](https://linkedin.com/in/sxlmwn)
 
 </div>
 
