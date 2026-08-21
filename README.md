@@ -6,40 +6,26 @@
 
 <!-- EDIT: links -->
 [github.com/sxlmwn](https://github.com/sxlmwn) &nbsp;·&nbsp;
-[linkedin](https://linkedin.com/in/username) &nbsp;·&nbsp;
-[email](mailto:your.email@example.com)
+[linkedin](https://linkedin.com/in/sxlmwn) &nbsp;·&nbsp;
+[email](mailto:salmanyounus13@gmail.com)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
 <!-- EDIT: bio -->
-> Salman Younus (sxlmwn)<br>
-> Software Engineer & Builder.
-
-I build fast, reliable systems and clean software architectures. Currently working on open source software and modern web applications.
+> BS Software Engineering student at COMSATS University Islamabad (batch 2025–2029).<br>
+> AI/ML intern at Cybergen–Qubit Dynamics, working on QA/SQA and R&D.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
 <!-- EDIT: stack -->
-<samp>python &nbsp; typescript &nbsp; javascript &nbsp; react &nbsp; node &nbsp; docker &nbsp; git &nbsp; linux</samp>
+<samp>python &nbsp; c++ &nbsp; java &nbsp; javascript &nbsp; typescript &nbsp; react &nbsp; node &nbsp; sql &nbsp; bash &nbsp; docker &nbsp; git</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
 <!-- EDIT: project -->
-**[project-one](https://github.com/sxlmwn/project-one)** &nbsp;·&nbsp; <samp>python, fastapi</samp><br>
-High-performance backend service with automated data processing pipelines.<br>
-Designed for low latency and high scalability.
-
-<!-- EDIT: project -->
-**[project-two](https://github.com/sxlmwn/project-two)** &nbsp;·&nbsp; <samp>typescript, react</samp><br>
-Interactive web application built with modern frontend architecture.<br>
-Features real-time updates and slick component design.
-
-<!-- EDIT: project -->
-**[project-three](https://github.com/sxlmwn/project-three)** &nbsp;·&nbsp; <samp>rust, webassembly</samp><br>
-Utility library for high-speed client-side computation.<br>
-Optimized for browser environments and zero-cost abstractions.
+More soon — actively shipping.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
